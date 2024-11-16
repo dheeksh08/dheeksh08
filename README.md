@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dheekshita Rajan
-- 👀 I’m interested in reading novels
+- 👀 I’m interested in DS
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on people around me
 - 📫 How to reach me ...
