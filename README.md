@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dheekshita.r</h1>
+<h1 align="center">Hi 👋, I'm Dheekshita.R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeksh08&label=Profile%20views&color=0e75b6&style=flat" alt="dheeksh08" /> </p>
